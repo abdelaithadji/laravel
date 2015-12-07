@@ -1,0 +1,22 @@
+{
+  "name": "laravel",
+  "version": "1.0.0",
+  "description": "lorem ipsum dolor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelaithadji/laravel.git"
+  },
+  "keywords": [
+    "milachergui"
+  ],
+  "author": "Abdel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelaithadji/laravel/issues"
+  },
+  "homepage": "https://github.com/abdelaithadji/laravel#readme"
+}
